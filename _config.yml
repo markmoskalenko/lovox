@@ -1,0 +1,7 @@
+title: "Lovox — система управления задачами, проектами и базой знаний компании"
+description: "Lovox — российская платформа для управления задачами, проектами и базой знаний компании. Аналог Notion, Confluence, ClickUp и Trello для российского рынка."
+lang: ru
+url: "https://markmoskalenko.github.io"
+baseurl: "/lovox"
+theme: jekyll-theme-primer
+plugins: [jekyll-seo-tag, jekyll-sitemap]
